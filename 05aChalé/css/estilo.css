@@ -94,10 +94,11 @@ ul#navegacao a:hover{
 	background: #fdf6be;
 }
 
-.depoimento{
+img.depoimento{
 	width: 226px;
 	height: 164px;
-	float: right;
+	float:right;
+	
 }
 #area-principal{
 	float: left;
