@@ -30,5 +30,16 @@ Foram os primeiros contatos com html e css
 
 ![Parallax (2)](https://user-images.githubusercontent.com/59126841/86962135-c2473f80-c138-11ea-8c2c-e1dd7233bdfe.gif)
 
+#06 Museu Nacional
+
+![print](https://user-images.githubusercontent.com/59126841/86962927-09820000-c13a-11ea-955c-62169a50ff70.png)
+
+#07 Finans
+![print](https://user-images.githubusercontent.com/59126841/86962952-1141a480-c13a-11ea-9c63-433eacfd0480.png)
+
+#08 Projeto Spotfy
+
+![print](https://user-images.githubusercontent.com/59126841/86962965-17d01c00-c13a-11ea-921b-4041fee67cff.png)
+
 
 
