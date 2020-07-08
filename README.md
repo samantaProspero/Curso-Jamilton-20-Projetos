@@ -28,5 +28,7 @@ Foram os primeiros contatos com html e css
 
 #05b Parallax
 
+![Parallax (2)](https://user-images.githubusercontent.com/59126841/86962135-c2473f80-c138-11ea-8c2c-e1dd7233bdfe.gif)
+
 
 
